@@ -20,7 +20,7 @@ I am currently seeking an opportunity to contribute, learn from an engineering t
 
 ## Selected Projects
 
-### [Zain's IPTV](https://github.com/Zain-055/zains-iptv)
+### [Zain's IPTV](https://github.com/Zain-055/iptv-player)
 **Cross-platform IPTV player** · Flutter, Dart
 
 A TV-friendly player for local and remote M3U/M3U8 playlists, built for mobile, desktop, and other supported Flutter platforms.
@@ -31,7 +31,7 @@ A TV-friendly player for local and remote M3U/M3U8 playlists, built for mobile, 
 - Retry unavailable streams with bounded reconnects while keeping channel navigation available.
 - Includes Android TV support and release workflows for desktop platforms.
 
-### [Universal Android Repair & ROM Manager](https://github.com/Zain-055/Universal-Android-Bypass)
+### [Universal Android Repair & ROM Manager](https://github.com/Zain-055/android-repair-rom-manager)
 **Windows desktop utility** · Python, PySide6, SQLite
 
 A desktop application skeleton for Android device diagnostics, device matching, firmware validation, and guided ROM workflow planning.
@@ -41,7 +41,7 @@ A desktop application skeleton for Android device diagnostics, device matching, 
 - Keep local history and metadata in SQLite.
 - Designed to validate and guide: it does not download firmware, install drivers, or flash devices.
 
-### [TyperZ](https://github.com/Zain-055/TyperZ)
+### [TyperZ](https://github.com/Zain-055/typerz)
 **Offline typing-speed test** · JavaScript, HTML, CSS, Electron
 
 A typing test available as a self-contained web page and a portable Windows desktop app.
@@ -51,7 +51,7 @@ A typing test available as a self-contained web page and a portable Windows desk
 - Store personal-best scores locally in browser storage.
 - No accounts, ads, analytics, network requests, or runtime CDN dependency.
 
-### [Humanlify](https://github.com/Zain-055/humanizer)
+### [Humanlify](https://github.com/Zain-055/humanlify)
 **Browser-based text analysis and rewriting demo** · JavaScript, HTML, CSS
 
 A client-side demo for exploring text-pattern indicators and rewriting controls in casual, professional, and academic tones.
@@ -60,7 +60,7 @@ A client-side demo for exploring text-pattern indicators and rewriting controls 
 - Copy, edit, or clear input and output; save preferences in browser storage.
 - Uses hand-written heuristics and text transformations, not an AI model; its scores are not reliable authorship evidence.
 
-### [BMI Calculator](https://github.com/Zain-055/shape_checker)
+### [BMI Calculator](https://github.com/Zain-055/bmi-calculator)
 **Responsive browser calculator** · JavaScript, HTML, CSS
 
 A lightweight calculator for metric and imperial measurements, with general category guidance.
