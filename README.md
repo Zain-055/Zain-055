@@ -1,27 +1,85 @@
-# 💫 About Me:
-I am final year student of BS Software engineering in University of Gujrat, Pakistan.<br>I have created many projects during my course, linked with GitHub repositories.<br>Right now, I am working on a web application, soon be displayed publicly.<br>I am also looking for a job related to my field to make my career as well.<br>I am familiar with AAI prompts that help me create my projects real fast.<br>Even the API integration is easy with AI.
+<div align="center">
 
+# Muhammad Zain
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Zain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC_OcCfErqw2jf7Rvemr6d1A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainbussiness53@gmail.com) 
+### Software Engineering Student | Flutter, Python & Web Development
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=plastic&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zain-055&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zain-055&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-055&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build practical applications for desktop, web, and mobile, with an emphasis on clear workflows, useful features, and reliable behavior.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zain-055&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[Projects](#selected-projects) · [Technical Skills](#technical-skills) · [Contact](#contact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zain-055&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zain-055&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I am a Software Engineering student at the University of Gujrat, Pakistan, developing projects that solve everyday problems across multiple platforms. My work includes a cross-platform media player, a desktop Android device utility, and lightweight browser applications.
+
+I am currently seeking an opportunity to contribute, learn from an engineering team, and grow as a software engineer.
+
+## Selected Projects
+
+### [Zain's IPTV](https://github.com/Zain-055/zains-iptv)
+**Cross-platform IPTV player** · Flutter, Dart
+
+A TV-friendly player for local and remote M3U/M3U8 playlists, built for mobile, desktop, and other supported Flutter platforms.
+
+- Import playlists from files or URLs, and combine multiple remote playlists.
+- Browse and search channels by name or category; tune by playlist channel number.
+- Save favorites and playlist metadata, with a cached-playlist fallback for offline use.
+- Retry unavailable streams with bounded reconnects while keeping channel navigation available.
+- Includes Android TV support and release workflows for desktop platforms.
+
+### [Universal Android Repair & ROM Manager](https://github.com/Zain-055/Universal-Android-Bypass)
+**Windows desktop utility** · Python, PySide6, SQLite
+
+A desktop application skeleton for Android device diagnostics, device matching, firmware validation, and guided ROM workflow planning.
+
+- Detect connected devices using ADB/Fastboot and USB metadata.
+- Match device profiles and validate firmware compatibility and manifests.
+- Keep local history and metadata in SQLite.
+- Designed to validate and guide: it does not download firmware, install drivers, or flash devices.
+
+### [TyperZ](https://github.com/Zain-055/TyperZ)
+**Offline typing-speed test** · JavaScript, HTML, CSS, Electron
+
+A typing test available as a self-contained web page and a portable Windows desktop app.
+
+- Run the web version locally, including offline.
+- Package a portable Windows x64 desktop build.
+- Store personal-best scores locally in browser storage.
+- No accounts, ads, analytics, network requests, or runtime CDN dependency.
+
+### [Humanlify](https://github.com/Zain-055/humanizer)
+**Browser-based text analysis and rewriting demo** · JavaScript, HTML, CSS
+
+A client-side demo for exploring text-pattern indicators and rewriting controls in casual, professional, and academic tones.
+
+- Analyze pasted text and adjust rewriting tone and intensity.
+- Copy, edit, or clear input and output; save preferences in browser storage.
+- Uses hand-written heuristics and text transformations, not an AI model; its scores are not reliable authorship evidence.
+
+### [BMI Calculator](https://github.com/Zain-055/shape_checker)
+**Responsive browser calculator** · JavaScript, HTML, CSS
+
+A lightweight calculator for metric and imperial measurements, with general category guidance.
+
+- Accept height in metres or centimetres and weight in kilograms or pounds.
+- Save up to 50 recent calculations in browser storage.
+- Supports installation as a progressive web app and offline use after loading.
+- BMI is a screening measure, not a diagnosis or substitute for medical advice.
+
+## Technical Skills
+
+**Languages:** Dart, Python, JavaScript, HTML, CSS
+
+**Frameworks and platforms:** Flutter, PySide6, Electron, Progressive Web Apps
+
+**Tools and storage:** Git, SQLite, browser local storage, ADB, Fastboot
+
+## Contact
+
+For opportunities and collaboration, reach me at [zainbussiness53@gmail.com](mailto:zainbussiness53@gmail.com).
+
+[GitHub profile](https://github.com/Zain-055) · [Browse all public repositories](https://github.com/Zain-055?tab=repositories)
